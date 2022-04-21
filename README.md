@@ -2,7 +2,7 @@
 # This is backend assignment
 # Description
 
-In this assignment i hae created backend for a CRUD application. Users can add a new item, edit an existing item and delete an item. As part of this task,I have used mongo db database
+In this assignment i have created backend for a CRUD application. Users can add a new item, edit an existing item and delete an item. As part of this task,I have used mongo db database
 and spring boot for making api endpoints.
 #Tables
 
